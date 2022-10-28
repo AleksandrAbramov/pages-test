@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Алло, йоба, ето ти??7
+          pages-test App
         </a>
       </header>
     </div>
